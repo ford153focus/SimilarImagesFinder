@@ -7,4 +7,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Codeuctivity.ImageSharpCompare" Version="2.0.76" />
+      <PackageReference Include="SixLabors.ImageSharp" Version="2.1.3" />
+    </ItemGroup>
+
 </Project>
